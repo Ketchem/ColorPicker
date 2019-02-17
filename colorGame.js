@@ -127,6 +127,6 @@ function newGame(mode){
     };
 
     messageDisplay.textContent = "";
-    h1.style.backgroundColor = "#232323";
+    h1.style.backgroundColor = "steelblue";
     reset.textContent = "New Colors";
 };
