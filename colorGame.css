@@ -2,6 +2,10 @@ body{
     background: #232323;
 }
 
+.selected{
+    background-color: blue;
+}
+
 .square{
     width: 30%;
     background: purple;
@@ -17,6 +21,8 @@ body{
 
 h1{
     color: white;
+    text-align: center;
+    background-color: steelblue;
 }
 
 #stripe span{
